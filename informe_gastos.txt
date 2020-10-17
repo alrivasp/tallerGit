@@ -1,3 +1,5 @@
 chococrispi $3000
 helado		$ 9000
 bebida $500
+galletas 1000
+chocolate $1000
